@@ -21,4 +21,5 @@ Here we list all the recipe webpages with their titles, ingredients, cooking tim
 | Broccoli-Rice-Noodles | Rice Noodles, Chicken, Garlic, Broccoli, Soy Sauce, Olive Oil, Salt, Pepper, Eggs | 30 min | [Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)|
 | Lasagne al Forno | Lasagne sheets, Parmesan, Olive Oil, Butter, Flour, Milk, Mince Meat, Garlic, Onion, Tomato purée, Salt, Pepper | 2 h | [Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU) |
 | Vanilla Pudding | Milk, Sugar, Egg Yolk, Cornstarch, Vanilla Extract, Butter | 30 min | [Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/) |
-| Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/)
+| Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/) |
+| Chicken Noodle Casserole | Chicken, Noodles, | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
