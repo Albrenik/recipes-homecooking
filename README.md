@@ -11,7 +11,7 @@ recipes.
 ### Title 
 List of recipes
 ### Description
-Here we list all the recipe webpages with their titles, ingredients, cooking time and links for example videos.
+The list of all the recipe webpages with their titles, ingredients, cooking time and links for example videos.
 ### Recipe Websites list
 | Title | Ingredients | Cooking Time | links |
 | ------ | ------ | ------ | ------ | 
@@ -23,7 +23,20 @@ Here we list all the recipe webpages with their titles, ingredients, cooking tim
 | Vanilla Pudding | Milk, Sugar, Egg Yolk, Cornstarch, Vanilla Extract, Butter | 30 min | [Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/) |
 | Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/) |
 | Chicken Noodle Casserole | Chicken, Noodles, Vegies, Cheese,  | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
-| Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
-| Vanilla Ice Cream | Egg Yolks, Granulated Sugar, Milk, Heavy Cream, Vanilla Extract | 15 min | [Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876)
-| Homemade Burger | Olive Oil, Onion, Beef, Herbs, Egg, Cheddar, Buns, Lettuce, Tomato, Ketchup | 30 min | [Homemade Burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
-| Roasted Almonds | Almonds, Sugar, Vanilla Extract, Cinnamon, Water | 15 min | [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/)
+| Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/) |
+| Vanilla Ice Cream | Egg Yolks, Granulated Sugar, Milk, Heavy Cream, Vanilla Extract | 15 min | [Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876) |
+| Homemade Burger | Olive Oil, Onion, Beef, Herbs, Egg, Cheddar, Buns, Lettuce, Tomato, Ketchup | 30 min | [Homemade Burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)|
+| Roasted Almonds | Almonds, Sugar, Vanilla Extract, Cinnamon, Water | 15 min | [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/) |
+
+
+## Structure of a recipe Website
+
+### Recipe
+Pizza Margherita
+
+Picture of the Recipe
+
+### 
+
+
+
