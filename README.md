@@ -23,3 +23,4 @@ Here we list all the recipe webpages with their titles, ingredients, cooking tim
 | Vanilla Pudding | Milk, Sugar, Egg Yolk, Cornstarch, Vanilla Extract, Butter | 30 min | [Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/) |
 | Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/) |
 | Chicken Noodle Casserole | Chicken, Noodles, Vegies, Cheese,  | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
+| Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
