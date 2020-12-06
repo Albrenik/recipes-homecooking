@@ -15,11 +15,6 @@ Here we list all the recipe webpages with their titles, ingredients, cooking tim
 ### Content
 | Title | Ingredients | Cooking Title | links |
 | ------ | ------ | ------ | ------ | 
-| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 10 min. | video link |
+| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 10 min. | [Pizza](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
 | Spaghetti Bolognese | Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper | 30 min | [Spaghetti](https://www.youtube.com/watch?v=v2WqcHH65NQ) |
 
-
-| Title | Ingredients | Cooking Title | links |
-| ------ | ------ |
-| cell | cell |
-| cell | cell |
