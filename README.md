@@ -34,9 +34,22 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 ### Recipe
 Pizza Margherita
 
-Picture of the Recipe
+#### Picture of the Recipe
 
-### 
+### Ingredients
+
+- Flour
+- Water
+- Yeast
+- Olive Oil
+- Sugar
+- Salt
+- Pepper
+- Basil
+- Mozzarella
+- Tomato paste
+
+
 
 
 
