@@ -26,3 +26,4 @@ Here we list all the recipe webpages with their titles, ingredients, cooking tim
 | Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
 | Vanilla Ice Cream | Egg Yolks, Granulated Sugar, Milk, Heavy Cream, Vanilla Extract | 15 min | [Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876)
 | Homemade Burger | Olive Oil, Onion, Beef, Herbs, Egg, Cheddar, Buns, Lettuce, Tomato, Ketchup | 30 min | [Homemade Burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
+| Roasted Almonds | Almonds, Sugar, Vanilla Extract, Cinnamon, Water | 15 min | [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/)
