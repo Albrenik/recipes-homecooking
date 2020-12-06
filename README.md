@@ -38,16 +38,20 @@ Pizza Margherita
 
 ### Ingredients
 
-- Flour
-- Water
-- Yeast
-- Olive Oil
-- Sugar
-- Salt
+- 500g Flour
+- 250ml Water
+- 1 bag of Yeast
+- 2 Spoon of Olive Oil
+- 1 Tsp Sugar
+- Pinch of Salt
 - Pepper
 - Basil
-- Mozzarella
-- Tomato paste
+- 200g  Mozzarella
+- 250g Tomato puree
+
+### Cooking Instruction
+
+#### The Dough
 
 
 
