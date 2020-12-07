@@ -189,18 +189,28 @@ Lasagne al Forno
 - 2 onion
 - 300 g carrots
 - Olive Oil
-- 
+- 1 Box of Lasagne Plates
+- 300g celery
+- 2 x 400g canned chopped tomatoes
+- 50g Butter
+- 2 x 400g canned lentils
+- 2 leeks
+- 4 tbsp flour
+- 1l Milk
+- Cheddar Cheese
+- Parmesan
+- Smoked Mozzarella
 
 ### Cooking Instruction
-Estimated Time needed to cook the recipe: 30 min
-Required Utensils: pan, stove, bowl, boiling Water
+Estimated Time needed to cook the recipe: 3 h
+Required Utensils: 2 pans, stove, oven, baking dish
 
 #### The Preparation
-For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
+Slice the vegtables in small Pieces.
 
 #### Cooking
-Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
+Pour some Olive Oil in the pan and add the minced Meat. Cook it until its nice and brown. Add the vegtables and cook them ass well. Pour in the lentils, the canned Tomatoes and fill the cans from the tomatoes with water and add this water ass well, let it cook for 1 and a half hour. Put the 50g of Butter into the other pan and while waiting for it to heat up, chop the leek. Add the leek to the pan when its heated and put in the flour. Add the Milk and stir until its boiling. Take a hand blender to puree everything. Grate some Cheddar, Parmesan and Smoked Mozzarella into the sauce, finished.
 
-#### Serve
-Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+#### Assemble
+Take your baking dish and cover the bottom of the dish with the Meat. Put the Lasagne Plates and cover the first layer with it. Take the sauce and cover the plates as well. Repeat this until the baking dish is filled up. Now put some grated Cheese on top and put it in the oven until it is nice, brown and crispy.
 
