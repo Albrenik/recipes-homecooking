@@ -31,7 +31,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 
 ## Structure of a recipe Website
 
-### Recipe 1
+## Recipe 1
 Pizza Margherita
 
 #### Picture of the Recipe
@@ -74,7 +74,7 @@ Put the sliced Mozzarella on the Pizza. Put your Pizza in the oven for 10 min at
 After you took out your Pizza, spread some basil if you like and slice the Pizza.
 Voila your Pizza is done!
 
-### Recipe 2
+## Recipe 2
 Pizza Prosciutto
 
 #### Picture of the Recipe
@@ -122,7 +122,40 @@ Spaghetti Bolognese
 
 ### Ingredients
 
-Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper
+- 1 tbsp olive oil
+- 1 onion, peeled and finely diced
+- 2 cloves garlic, peeled and minced
+- 400g minced beef
+- 1 carrot, peeled and finely diced
+- 3 tbsp tomato puree
+- 1 tsp dried oregano
+- ½ tsp dried thyme
+- 1 beef stock cube, crumbled
+- 2 x 400g canned chopped tomatoes
+- ½ tsp salt
+- ½ tsp black pepper
+- 300g spaghetti
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pot, stove
+
+#### The Bolognese
+For the Bolognese put Onions and Garlic into the pot coook them until they are softened. Add the carrots and minced beef and cook everything together until its browned. Then put in the 2x400g canned chopped Tomatoes and the 3 tbsp of Tomato Paste into the pot. Season it with Salt, Pepper and Oregano.
+Turn down the heat and let it simmer for about 10 to 12 min. Now cook the Spaghetti.
+
+#### The Spaghetti
+For the Spaghetti put them in a pot of boiling water. Cook them as described on the packaging.
+
+#### Serve
+Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
+
+### Recipe 4
+Broccoli Rice Noodles
+
+#### Picture of the Recipe
+
+### Ingredients
 
 - 1 tbsp olive oil
 - 1 onion, peeled and finely diced
