@@ -65,7 +65,7 @@ Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm pl
 
 #### The Sauce
 For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
-Cook everythink and season it with Salt, Pepper, Oregano and Basil.
+Cook everything and season it with Salt, Pepper, Oregano and Basil.
 
 #### Assemble
 Preheat the oven to 220 degrees Celsius.
@@ -132,29 +132,22 @@ Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oreg
 - 3 tbsp tomato puree
 - 1 tsp dried oregano
 - ½ tsp dried thyme
-- 1 tbsp Worcestershire sauce
 - 1 beef stock cube, crumbled
 - 2 x 400g canned chopped tomatoes
-- ½ tbsp light brown sugar
 - ½ tsp salt
 - ½ tsp black pepper
 - 300g spaghetti
 
-
-
 ### Cooking Instruction
-Estimated Time needed to cook the recipe: 2 h
-Required Utensils: oven, bowl, pot, stove
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pot, stove
 
-#### The Dough
-For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
-Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
+#### The Bolognese
+For the Bolognese put Onions and Garlic into the pot coook them until they are softened. Add the carrots and minced beef and cook everything together until its browned. Then put in the 2x400g canned chopped Tomatoes and the 3 tbsp of Tomato Paste into the pot. Season it with Salt, Pepper and Oregano.
+Turn down the heat and let it simmer for about 10 to 12 min. Now cook the Spaghetti.
 
-#### The Sauce
-For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
-Cook everythink and season it with Salt, Pepper and Oregano.
+#### The Spaghetti
+For the Spaghetti put them in a pot of boiling water. Cook them as described on the packaging.
 
-#### Assemble
-Preheat the oven to 220 degrees Celsius.
-Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
-Take out the Pizza and Voila your Pizza is done!
+#### Serve
+Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
