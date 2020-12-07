@@ -108,14 +108,14 @@ Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm pl
 
 #### The Sauce
 For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
-Cook everythink and season it with Salt, Pepper and Oregano.
+Cook everything and season it with Salt, Pepper and Oregano.
 
 #### Assemble
 Preheat the oven to 220 degrees Celsius.
 Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
 Take out the Pizza and Voila your Pizza is done!
 
-### Recipe 3
+## Recipe 3
 Spaghetti Bolognese
 
 #### Picture of the Recipe
@@ -150,37 +150,30 @@ For the Spaghetti put them in a pot of boiling water. Cook them as described on 
 #### Serve
 Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
 
-### Recipe 4
+## Recipe 4
 Broccoli Rice Noodles
 
 #### Picture of the Recipe
 
 ### Ingredients
 
-- 1 tbsp olive oil
-- 1 onion, peeled and finely diced
-- 2 cloves garlic, peeled and minced
-- 400g minced beef
-- 1 carrot, peeled and finely diced
-- 3 tbsp tomato puree
-- 1 tsp dried oregano
-- ½ tsp dried thyme
-- 1 beef stock cube, crumbled
-- 2 x 400g canned chopped tomatoes
-- ½ tsp salt
-- ½ tsp black pepper
-- 300g spaghetti
+- 200g Rice Noodles
+- 100g Broccoli
+- 1 chicken breast
+- Soy Sauce
+- 1 clove Garlic
+- Olive Oil
+- 2 Eggs
 
 ### Cooking Instruction
 Estimated Time needed to cook the recipe: 30 min
-Required Utensils: pot, stove
+Required Utensils: pan, stove, bowl, boiling Water
 
-#### The Bolognese
-For the Bolognese put Onions and Garlic into the pot coook them until they are softened. Add the carrots and minced beef and cook everything together until its browned. Then put in the 2x400g canned chopped Tomatoes and the 3 tbsp of Tomato Paste into the pot. Season it with Salt, Pepper and Oregano.
-Turn down the heat and let it simmer for about 10 to 12 min. Now cook the Spaghetti.
+#### The Preparation
+For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
 
-#### The Spaghetti
-For the Spaghetti put them in a pot of boiling water. Cook them as described on the packaging.
+#### Cooking
+Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
 
 #### Serve
-Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
+Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
