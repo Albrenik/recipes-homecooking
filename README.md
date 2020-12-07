@@ -15,8 +15,8 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 ### Recipe Websites list
 | Title | Ingredients | Cooking Time | links |
 | ------ | ------ | ------ | ------ | 
-1. | Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 2 h | [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
-2. | Pizza-Prosciutto | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Cheese, Tomato paste, Pepper, Ham | 2 h | [Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI) |
+| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 2 h | [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
+| Pizza-Prosciutto | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Cheese, Tomato paste, Pepper, Ham | 2 h | [Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI) |
 | Spaghetti Bolognese | Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper | 30 min | [Spaghetti Bolognese](https://www.youtube.com/watch?v=v2WqcHH65NQ) |
 | Broccoli-Rice-Noodles | Rice Noodles, Chicken, Garlic, Broccoli, Soy Sauce, Olive Oil, Salt, Pepper, Eggs | 30 min | [Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)|
 | Lasagne al Forno | Lasagne sheets, Parmesan, Olive Oil, Butter, Flour, Milk, Mince Meat, Garlic, Onion, Tomato purée, Salt, Pepper | 2 h | [Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU) |
@@ -115,3 +115,46 @@ Preheat the oven to 220 degrees Celsius.
 Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
 Take out the Pizza and Voila your Pizza is done!
 
+### Recipe 3
+Spaghetti Bolognese
+
+#### Picture of the Recipe
+
+### Ingredients
+
+Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper
+
+- 1 tbsp olive oil
+- 1 onion, peeled and finely diced
+- 2 cloves garlic, peeled and minced
+- 400g minced beef
+- 1 carrot, peeled and finely diced
+- 3 tbsp tomato puree
+- 1 tsp dried oregano
+- ½ tsp dried thyme
+- 1 tbsp Worcestershire sauce
+- 1 beef stock cube, crumbled
+- 2 x 400g canned chopped tomatoes
+- ½ tbsp light brown sugar
+- ½ tsp salt
+- ½ tsp black pepper
+- 300g spaghetti
+
+
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 2 h
+Required Utensils: oven, bowl, pot, stove
+
+#### The Dough
+For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
+Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
+
+#### The Sauce
+For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
+Cook everythink and season it with Salt, Pepper and Oregano.
+
+#### Assemble
+Preheat the oven to 220 degrees Celsius.
+Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
+Take out the Pizza and Voila your Pizza is done!
