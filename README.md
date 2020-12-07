@@ -31,7 +31,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 
 ## Structure of a recipe Website
 
-### Recipe
+### Recipe 1
 Pizza Margherita
 
 #### Picture of the Recipe
@@ -74,7 +74,7 @@ Put the sliced Mozzarella on the Pizza. Put your Pizza in the oven for 10 min at
 After you took out your Pizza, spread some basil if you like and slice the Pizza.
 Voila your Pizza is done!
 
-### Recipe
+### Recipe 2
 Pizza Prosciutto
 
 #### Picture of the Recipe
