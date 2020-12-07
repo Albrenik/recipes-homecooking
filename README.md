@@ -22,7 +22,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 | Lasagne al Forno | Lasagne sheets, Parmesan, Olive Oil, Butter, Flour, Milk, Mince Meat, Garlic, Onion, Tomato purée, Salt, Pepper | 2 h | [Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU) |
 | Vanilla Pudding | Milk, Sugar, Egg Yolk, Cornstarch, Vanilla Extract, Butter | 30 min | [Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/) |
 | Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/) |
-| Chicken Noodle Casserole | Chicken, Noodles, Vegies, Cheese,  | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
+| Chicken Noodle Casserole | Chicken, Noodles, Vegies, Cheese,  | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/) |
 | Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/) |
 | Vanilla Ice Cream | Egg Yolks, Granulated Sugar, Milk, Heavy Cream, Vanilla Extract | 15 min | [Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876) |
 | Homemade Burger | Olive Oil, Onion, Beef, Herbs, Egg, Cheddar, Buns, Lettuce, Tomato, Ketchup | 30 min | [Homemade Burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)|
@@ -39,21 +39,38 @@ Pizza Margherita
 ### Ingredients
 
 - 500g Flour
-- 250ml Water
+- 300ml Water
+- 300ml Water
 - 1 bag of Yeast
 - 2 Spoon of Olive Oil
 - 1 Tsp Sugar
 - Pinch of Salt
 - Pepper
 - Basil
-- 200g  Mozzarella
+- Onion
+- Garlic
 - 250g Tomato puree
+- Tomato Paste
+- 2 Spoon of Oregano
+- 200g  Mozzarella
+
 
 ### Cooking Instruction
 
 #### The Dough
+For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
+Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
 
+#### The Sauce
+For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
+Cook everythink and season it with Salt, Pepper, Oregano and Basil.
 
+#### Assemble
+Preheat the oven to 220 degrees Celsius.
+Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. 
+Put the sliced Mozzarella on the Pizza. Put your Pizza in the oven for 10 min at 220 degrees.
+After you took out your Pizza, spread some basil if you like and slice the Pizza.
+Voila your Pizza is done!
 
 
 
