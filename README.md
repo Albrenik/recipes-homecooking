@@ -214,3 +214,55 @@ Pour some Olive Oil in the pan and add the minced Meat. Cook it until its nice a
 #### Assemble
 Take your baking dish and cover the bottom of the dish with the Meat. Put the Lasagne Plates and cover the first layer with it. Take the sauce and cover the plates as well. Repeat this until the baking dish is filled up. Now put some grated Cheese on top and put it in the oven until it is nice, brown and crispy.
 
+## Recipe 6
+Vanilla Pudding
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1/3 cup granulated sugar
+- 3 tablespoons cornstarch
+- 1/8 teaspoon salt
+- 2-1/4 cups whole milk
+- 2 large egg yolks
+- 1 tablespoon unsalted butter
+- 1-1/2 teaspoons pure vanilla extract
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 35 min
+Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+
+#### Cooking
+In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
+Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
+Remove from heat and whisk in butter and vanilla extract. 
+If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
+Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
+
+## Recipe 7
+Waffels
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 2 cups all-purpose flour
+- 1 teaspoon salt
+- 4 teaspoons baking powder
+- 2 tablespoons white sugar
+- 2 eggs
+- 1 ½ cups warm milk
+- ⅓ cup butter, melted
+- 1 teaspoon vanilla extract
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 35 min
+Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+
+#### Cooking
+In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
+Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
+Remove from heat and whisk in butter and vanilla extract. 
+If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
+Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
