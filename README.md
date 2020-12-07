@@ -6,3 +6,201 @@ cooking instruction and sometimes link to a video where someone explains how to 
 The first Website the guest sees is the Home Screen with some suggested recipes, links to top rated recipes,
 link to the recipe inventory and a link to a webpage filled with some more video impressions for even more 
 recipes.
+
+## List of Recipes
+### Title 
+List of recipes
+### Description
+The list of all the recipe webpages with their titles, ingredients, cooking time and links for example videos.
+### Recipe Websites list
+| Title | Ingredients | Cooking Time | links |
+| ------ | ------ | ------ | ------ | 
+| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 2 h | [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
+| Pizza-Prosciutto | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Cheese, Tomato paste, Pepper, Ham | 2 h | [Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI) |
+| Spaghetti Bolognese | Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper | 30 min | [Spaghetti Bolognese](https://www.youtube.com/watch?v=v2WqcHH65NQ) |
+| Broccoli-Rice-Noodles | Rice Noodles, Chicken, Garlic, Broccoli, Soy Sauce, Olive Oil, Salt, Pepper, Eggs | 30 min | [Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)|
+| Lasagne al Forno | Lasagne sheets, Parmesan, Olive Oil, Butter, Flour, Milk, Mince Meat, Garlic, Onion, Tomato purée, Salt, Pepper | 2 h | [Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU) |
+| Vanilla Pudding | Milk, Sugar, Egg Yolk, Cornstarch, Vanilla Extract, Butter | 30 min | [Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/) |
+| Waffels | Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min | [Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/) |
+| Chicken Noodle Casserole | Chicken, Noodles, Vegies, Cheese,  | 1 h | [Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/) |
+| Red Fruit Jelly | Mixed Berries and Fruits, Rum, Sugar, Potato Starch | 30 min | [Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/) |
+| Vanilla Ice Cream | Egg Yolks, Granulated Sugar, Milk, Heavy Cream, Vanilla Extract | 15 min | [Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876) |
+| Homemade Burger | Olive Oil, Onion, Beef, Herbs, Egg, Cheddar, Buns, Lettuce, Tomato, Ketchup | 30 min | [Homemade Burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)|
+| Roasted Almonds | Almonds, Sugar, Vanilla Extract, Cinnamon, Water | 15 min | [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/) |
+
+
+## Structure of a recipe Website
+
+## Recipe 1
+Pizza Margherita
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 500g Flour
+- 300ml Water
+- 300ml Water
+- 1 bag of Yeast
+- 2 Spoon of Olive Oil
+- 1 Tsp Sugar
+- Pinch of Salt
+- Pepper
+- Basil
+- Onion
+- Garlic
+- 250g Tomato puree
+- Tomato Paste
+- 2 Spoon of Oregano
+- 200g  Mozzarella
+
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 2 h
+Required Utensils: oven, bowl, pot, stove
+
+#### The Dough
+For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
+Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
+
+#### The Sauce
+For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
+Cook everything and season it with Salt, Pepper, Oregano and Basil.
+
+#### Assemble
+Preheat the oven to 220 degrees Celsius.
+Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. 
+Put the sliced Mozzarella on the Pizza. Put your Pizza in the oven for 10 min at 220 degrees.
+After you took out your Pizza, spread some basil if you like and slice the Pizza.
+Voila your Pizza is done!
+
+## Recipe 2
+Pizza Prosciutto
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 500g Flour
+- 300ml Water
+- 300ml Water
+- 1 bag of Yeast
+- 2 Spoon of Olive Oil
+- 1 Tsp Sugar
+- Pinch of Salt
+- Pepper
+- Onion
+- Garlic
+- 250g Tomato puree
+- Tomato Paste
+- 2 Spoon of Oregano
+- 200g  Cheese
+- Prosciutto
+
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 2 h
+Required Utensils: oven, bowl, pot, stove
+
+#### The Dough
+For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
+Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
+
+#### The Sauce
+For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
+Cook everything and season it with Salt, Pepper and Oregano.
+
+#### Assemble
+Preheat the oven to 220 degrees Celsius.
+Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
+Take out the Pizza and Voila your Pizza is done!
+
+## Recipe 3
+Spaghetti Bolognese
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1 tbsp olive oil
+- 1 onion, peeled and finely diced
+- 2 cloves garlic, peeled and minced
+- 400g minced beef
+- 1 carrot, peeled and finely diced
+- 3 tbsp tomato puree
+- 1 tsp dried oregano
+- ½ tsp dried thyme
+- 1 beef stock cube, crumbled
+- 2 x 400g canned chopped tomatoes
+- ½ tsp salt
+- ½ tsp black pepper
+- 300g spaghetti
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pot, stove
+
+#### The Bolognese
+For the Bolognese put Onions and Garlic into the pot coook them until they are softened. Add the carrots and minced beef and cook everything together until its browned. Then put in the 2x400g canned chopped Tomatoes and the 3 tbsp of Tomato Paste into the pot. Season it with Salt, Pepper and Oregano.
+Turn down the heat and let it simmer for about 10 to 12 min. Now cook the Spaghetti.
+
+#### The Spaghetti
+For the Spaghetti put them in a pot of boiling water. Cook them as described on the packaging.
+
+#### Serve
+Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
+
+## Recipe 4
+Broccoli Rice Noodles
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 200g Rice Noodles
+- 100g Broccoli
+- 1 chicken breast
+- Soy Sauce
+- 1 clove Garlic
+- Olive Oil
+- 2 Eggs
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pan, stove, bowl, boiling Water
+
+#### The Preparation
+For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
+
+#### Cooking
+Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
+
+#### Serve
+Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+
+## Recipe 5
+Lasagne al Forno
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 400g mince Meat
+- 2 onion
+- 300 g carrots
+- Olive Oil
+- 
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pan, stove, bowl, boiling Water
+
+#### The Preparation
+For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
+
+#### Cooking
+Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
+
+#### Serve
+Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+
