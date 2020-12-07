@@ -177,3 +177,30 @@ Pour some Olive Oil into your pan and cook the chicken season it with some salt 
 
 #### Serve
 Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+
+## Recipe 5
+Lasagne al Forno
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 400g mince Meat
+- 2 onion
+- 300 g carrots
+- Olive Oil
+- 
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pan, stove, bowl, boiling Water
+
+#### The Preparation
+For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
+
+#### Cooking
+Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
+
+#### Serve
+Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+
