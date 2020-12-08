@@ -388,11 +388,11 @@ Fill with the lettuce, burgers and tomato slices. serve with ketchup, if you wan
 
 ### Ingredients
 
-- Raw, whole, unsalted almonds
-- Sugar
-- Water
-- Cinnamon
-- Vanilla sugar
+- 200g Raw, whole, unsalted almonds
+- 200g Sugar
+- 100ml Water
+- 1/2 table spoon Cinnamon
+- 1 sachet Vanilla sugar
 
 
 ### Cooking Instruction
