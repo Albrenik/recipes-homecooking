@@ -246,16 +246,44 @@ Transfer the pudding into a large bowl or into individual serving bowls. Cool un
 #### Picture of the Recipe
 
 ### Ingredients
-Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min |
 
+- 2 cups flour
+- 1 teaspoon salt
+- 4 teaspoon baking powder
+- 2 tablespoon white sugar
+- 2 eggs
+- 3/2 cups warm milk
+- 1/3 cup butter, melted
+- 1 teaspoon vanilla extract
 
 ### Cooking Instruction
-Estimated Time needed to cook the recipe: 35 min
-Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: 2 large bowl, waffle iron
 
 #### Cooking
-In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
-Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
-Remove from heat and whisk in butter and vanilla extract. 
-If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
-Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
+Take a large bowl, mix together flour, salt, baking powder and sugar. Set it aside. Preheat the waffle iron.
+In a separate bowl, beat the eggs. Stir in the milk, butter and vanilla. Pour the milk mixture into the flour mixture and beat until blended.
+Ladle the batter into the preheated waffle iron. Cook the waffles until golden and crisp. Serve immediately.
+
+## Recipe 8
+[Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- One Pasta of your choise 
+- one bag of frozen veggies of your choise
+- 300g of chicken 
+- 1-3 bags of Cheese
+- Olive Oil
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: oven, casserole dish, pot, pan
+
+#### Cooking
+Cook the Pasta by following the instruction on the packaging.
+Cook the Chicken in the pan until it has a nice brown crust.
+Combine all ingredients in a casserole dish.
+Cover the casserole with cheese and put it in the oven at 200 degrees.
