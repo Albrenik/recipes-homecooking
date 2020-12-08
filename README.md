@@ -19,7 +19,7 @@ For our webside we want the Font Georgia.
 ### Layout
 You can use the the provided sample image as reference.
 
-# Content
+## Content
 For all required websites have a look at Website Design Diagram and the following list of recipes. Each recipe has to be its own website. It should also be possible to klick through the recipes when looking already at one. Furthermore the navigation bar has to be a part of every webpage so the visitor is able to navigate trough the webpages.
 For the Top 3 and Top 5 lists it is not yet decided which recipes are the best.
 
