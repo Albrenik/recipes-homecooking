@@ -32,7 +32,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 ## Structure of a recipe Website
 
 ## Recipe 1
-Pizza Margherita
+[Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk)
 
 #### Picture of the Recipe
 
@@ -75,7 +75,7 @@ After you took out your Pizza, spread some basil if you like and slice the Pizza
 Voila your Pizza is done!
 
 ## Recipe 2
-Pizza Prosciutto
+[Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI)
 
 #### Picture of the Recipe
 
@@ -116,7 +116,7 @@ Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flo
 Take out the Pizza and Voila your Pizza is done!
 
 ## Recipe 3
-Spaghetti Bolognese
+[Spaghetti Bolognese](https://www.youtube.com/watch?v=v2WqcHH65NQ)
 
 #### Picture of the Recipe
 
@@ -151,7 +151,7 @@ For the Spaghetti put them in a pot of boiling water. Cook them as described on 
 Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
 
 ## Recipe 4
-Broccoli Rice Noodles
+[Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)
 
 #### Picture of the Recipe
 
@@ -179,7 +179,7 @@ Pour some Olive Oil into your pan and cook the chicken season it with some salt 
 Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
 
 ## Recipe 5
-Lasagne al Forno
+[Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU)
 
 #### Picture of the Recipe
 
@@ -215,7 +215,7 @@ Pour some Olive Oil in the pan and add the minced Meat. Cook it until its nice a
 Take your baking dish and cover the bottom of the dish with the Meat. Put the Lasagne Plates and cover the first layer with it. Take the sauce and cover the plates as well. Repeat this until the baking dish is filled up. Now put some grated Cheese on top and put it in the oven until it is nice, brown and crispy.
 
 ## Recipe 6
-Vanilla Pudding
+[Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/)
 
 #### Picture of the Recipe
 
@@ -241,28 +241,81 @@ If you want to remove lumps: Place a fine mesh strainer over a large heatproof b
 Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
 
 ## Recipe 7
-Waffels
+[Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/)
 
 #### Picture of the Recipe
 
 ### Ingredients
 
-- 2 cups all-purpose flour
+- 2 cups flour
 - 1 teaspoon salt
-- 4 teaspoons baking powder
-- 2 tablespoons white sugar
+- 4 teaspoon baking powder
+- 2 tablespoon white sugar
 - 2 eggs
-- 1 ½ cups warm milk
-- ⅓ cup butter, melted
+- 3/2 cups warm milk
+- 1/3 cup butter, melted
 - 1 teaspoon vanilla extract
 
 ### Cooking Instruction
-Estimated Time needed to cook the recipe: 35 min
-Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: 2 large bowl, waffle iron
 
 #### Cooking
-In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
-Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
-Remove from heat and whisk in butter and vanilla extract. 
-If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
-Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
+Take a large bowl, mix together flour, salt, baking powder and sugar. Set it aside. Preheat the waffle iron.
+In a separate bowl, beat the eggs. Stir in the milk, butter and vanilla. Pour the milk mixture into the flour mixture and beat until blended.
+Ladle the batter into the preheated waffle iron. Cook the waffles until golden and crisp. Serve immediately.
+
+## Recipe 8
+[Chicken Noodle Casserole](https://www.spendwithpennies.com/quick-chicken-and-noodle-bake/)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- One Pasta of your choise 
+- one bag of frozen veggies of your choise
+- 300g of chicken 
+- 1-3 bags of Cheese
+- Olive Oil
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: oven, casserole dish, pot, pan
+
+#### Cooking
+Cook the Pasta by following the instruction on the packaging.
+Cook the Chicken in the pan until it has a nice brown crust.
+Combine all ingredients in a casserole dish.
+Cover the casserole with cheese and put it in the oven at 200 degrees.
+
+## Recipe 9
+[Homemade burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1/2 table spoon olive oil or any cooking oil
+- 1 onion peeled and finely chopped
+- 500g Beef steak ( quantity of your choice)
+- 1 table spoon mixed dried herbs
+- 1 egg
+- 4 white rolls
+- few round lettuce leaves, torn
+- 1 beef tomato, sliced
+- salt
+- buns
+- ketchup ( to serve)
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 40 min
+Required Utensils: friying pan, bowl, pot, grill
+
+#### Cooking
+Heat the olive oil in frying pan, add the onion and cook 5 minutes until it softened and starting to turn golden.
+In a bowl combine the beef mince with the herbs and the egg. Season, add the onions and mix well. 
+Cook the burger on the preheated barbecue or grille for 5-6 minutes on each side.
+while the second side is cooking, lay a slice of cheese on top to melt slightly.
+Meanwhile, Cut the bun and lightly toast the cut-sides on the barbecue.
+Fill with the lettuce, burgers and tomato slices. serve with ketchup, if you want.
+
