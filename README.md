@@ -287,3 +287,24 @@ Cook the Pasta by following the instruction on the packaging.
 Cook the Chicken in the pan until it has a nice brown crust.
 Combine all ingredients in a casserole dish.
 Cover the casserole with cheese and put it in the oven at 200 degrees.
+
+## Recipe 8
+[Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1kg mixed berries and fruits (cherries, raspberries, red and black currants, blackberries, strawberries etc.)
+- 75g sugar
+- 2 tbsp potato starch
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: oven, casserole dish, pot, pan
+
+#### Cooking
+Put the fruits and sugar in a pot and simmer until it's smooth.
+Mix the potato starch with a little bit of the fruit liquid and pour it into the fruit jelly.
+Let it boil briefly then fill into a big bowl or in portions in little bowls or glasses and let it cool down.
+Now you can serve it.
