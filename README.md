@@ -6,6 +6,19 @@ cooking instruction and sometimes link to a video where someone explains how to 
 The first Website the guest sees is the Home Screen with some suggested recipes, links to top rated recipes,
 link to the recipe inventory and a link to a webpage filled with some more video impressions for even more 
 recipes.
+## Style and feel
+### Colors
+you can use the following colors for the website
+Background color: white, dark grey, light grey, red, blue
+If needed you could use other colors suitable for the design
+
+### Logo
+Logo should contains the simple Cook's hat with the crossed spoon and fork; this image should be displayed in bookmark icon aswell.
+
+### Fonts
+Use the simple readable fonts such as Aerial or Times New Roman.
+### layout
+You can use the reference from the provided sample images.
 
 ## List of Recipes
 ### Title 
