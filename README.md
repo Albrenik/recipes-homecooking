@@ -3,21 +3,25 @@
 Our business "recipes-homecooking.com" is an online recipe website where anyone can search for new recipes 
 and try them out. For each recipe there is a list of ingredients, estimated cooking time, difficulty level,
 cooking instruction and sometimes link to a video where someone explains how to cook the recipe.
-The first Website the guest sees is the Home Screen with some suggested recipes, links to top rated recipes,
-link to the recipe inventory and a link to a webpage filled with some more video impressions for even more 
-recipes.
+The first Website the guest sees is the Home Screen with some suggested recipes, a navigation bar with a link to top 3 Lunch recipes, Top 3 Dessert reipes, Top 5 Recipes, All Recipes and New Recipes.
+
 ## Style and feel
 ### Colors
 We want a nice blue as our as the base color. To make everything look pleasant we want a light grey background around our content like the recipe instructions. To our accent color we want a suitable accent color.
 
 ### Logo
 The Logo should contain a simple Cook's hat with a crossed spoon and fork; this image should be displayed in bookmark icon aswell.
+It also has to be in an SVG Format.
 
 ### Fonts
 For our webside we want the Font Georgia.
 
 ### Layout
-You can use the the provided sample images as reference.
+You can use the the provided sample image as reference.
+
+# Content
+For all required websites have a look at Website Design Diagram and the following list of recipes. Each recipe has to be its own website. It should also be possible to klick through the recipes when looking already at one. Furthermore the navigation bar has to be a part of every webpage so the visitor is able to navigate trough the webpages.
+For the Top 3 and Top 5 lists it is not yet decided which recipes are the best.
 
 ## List of Recipes
 ### Description
