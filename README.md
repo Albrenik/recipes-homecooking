@@ -13,16 +13,15 @@ Background color: white, dark grey, light grey, red, blue
 If needed you could use other colors suitable for the design
 
 ### Logo
-Logo should contains the simple Cook's hat with the crossed spoon and fork; this image should be displayed in bookmark icon aswell.
+The Logo should contain a simple Cook's hat with a crossed spoon and fork; this image should be displayed in bookmark icon aswell.
 
 ### Fonts
-Use the simple readable fonts such as Aerial or Times New Roman.
-### layout
+For our webside we want the Font Georgia.
+
+### Layout
 You can use the reference from the provided sample images.
 
 ## List of Recipes
-### Title 
-List of recipes
 ### Description
 The list of all the recipe webpages with their titles, ingredients, cooking time and links for example videos.
 ### Recipe Websites list
@@ -42,7 +41,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 | Roasted Almonds | Almonds, Sugar, Vanilla Extract, Cinnamon, Water | 15 min | [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/) |
 
 
-## Structure of a recipe Website
+## Recipe Websites
 
 ## Recipe 1
 [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk)
