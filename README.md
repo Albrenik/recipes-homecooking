@@ -326,3 +326,38 @@ while the second side is cooking, lay a slice of cheese on top to melt slightly.
 Meanwhile, Cut the bun and lightly toast the cut-sides on the barbecue.
 Fill with the lettuce, burgers and tomato slices. serve with ketchup, if you want.
 
+## Recipe 10
+[Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- Raw, whole, unsalted almonds
+- Sugar
+- Water
+- Cinnamon
+- Vanilla sugar
+
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 15 min
+Required Utensils: bowl, cast iron pan, oven, wooden spoon, Backing tray
+
+#### Cooking
+Heat the cast iron pan or any other pan and adjust the temperature. 
+Measure all the ingredients; it is dependent upon the amount you require. 
+Add the water, sugar, and cinnamon. 
+Stir to combine the ingredients and dissolve the sugar. 
+Once the water start to boil add the almonds and keep stirring.
+At this stage sugar starts to turn darker color and for the water to boil
+out so the sugar will stick to the almonds.
+Adjust the heat as needed to keep it simmering.
+As the waters boils away the suger gets darker and thicker; you need to keep stirring.
+soon the almonds will start to look dry and fuzzy. Keep stirring!
+Now, The almonds will look really fuzzy and dry and will be hard to stir.
+The sugar has started to stick to the almonds; keep stirring to prevent sugar to burn.
+When the almonds are dry and fuzzy, turn the heats down and keep stirring. 
+Soon the almonds will look shiny again as the sugar melts.
+Once the sugar melted and almonds are shiny add rest of sugar and vanilla sugar; heat and stir it until the sugar melts. 
+
