@@ -15,8 +15,8 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 ### Recipe Websites list
 | Title | Ingredients | Cooking Time | links |
 | ------ | ------ | ------ | ------ | 
-| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 10 min. | [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
-| Pizza-Prosciutto | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Cheese, Tomato paste, Pepper, Ham | 10 min. | [Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI) |
+| Pizza-Margherita | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Basil, Mozzarella, Tomato paste, Pepper | 2 h | [Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk) |
+| Pizza-Prosciutto | Flour, Water, Yeast, Olive Oil, Sugar, Salt, Cheese, Tomato paste, Pepper, Ham | 2 h | [Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI) |
 | Spaghetti Bolognese | Spaghetti, Mince Meat, Tomato paste, Garlic, Onions, tined Tomato, Carrots, Oregano, Salt, Pepper | 30 min | [Spaghetti Bolognese](https://www.youtube.com/watch?v=v2WqcHH65NQ) |
 | Broccoli-Rice-Noodles | Rice Noodles, Chicken, Garlic, Broccoli, Soy Sauce, Olive Oil, Salt, Pepper, Eggs | 30 min | [Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)|
 | Lasagne al Forno | Lasagne sheets, Parmesan, Olive Oil, Butter, Flour, Milk, Mince Meat, Garlic, Onion, Tomato purée, Salt, Pepper | 2 h | [Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU) |
@@ -31,7 +31,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 
 ## Structure of a recipe Website
 
-### Recipe
+## Recipe 1
 Pizza Margherita
 
 #### Picture of the Recipe
@@ -56,6 +56,8 @@ Pizza Margherita
 
 
 ### Cooking Instruction
+Estimated Time needed to cook the recipe: 2 h
+Required Utensils: oven, bowl, pot, stove
 
 #### The Dough
 For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
@@ -63,7 +65,7 @@ Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm pl
 
 #### The Sauce
 For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
-Cook everythink and season it with Salt, Pepper, Oregano and Basil.
+Cook everything and season it with Salt, Pepper, Oregano and Basil.
 
 #### Assemble
 Preheat the oven to 220 degrees Celsius.
@@ -72,5 +74,195 @@ Put the sliced Mozzarella on the Pizza. Put your Pizza in the oven for 10 min at
 After you took out your Pizza, spread some basil if you like and slice the Pizza.
 Voila your Pizza is done!
 
+## Recipe 2
+Pizza Prosciutto
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 500g Flour
+- 300ml Water
+- 300ml Water
+- 1 bag of Yeast
+- 2 Spoon of Olive Oil
+- 1 Tsp Sugar
+- Pinch of Salt
+- Pepper
+- Onion
+- Garlic
+- 250g Tomato puree
+- Tomato Paste
+- 2 Spoon of Oregano
+- 200g  Cheese
+- Prosciutto
 
 
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 2 h
+Required Utensils: oven, bowl, pot, stove
+
+#### The Dough
+For the Dough put 500g Flour, the bag of Yeast, 300ml Water, 2 Spoon of Olive Oil, 1 Tsp Sugar and a Pinch of Salt in a bowl and mix them together.
+Knead the Dough until it has become a uniform mass. Leave it for 1h at a warm place so the yeast can do its job.
+
+#### The Sauce
+For the Sauce put Onions and Garlic into the pot and cook them until they are softend. Then put in the 250g of Tomato Puree and 3 Spoons of Tomato Paste into the pot.
+Cook everything and season it with Salt, Pepper and Oregano.
+
+#### Assemble
+Preheat the oven to 220 degrees Celsius.
+Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flour on our Workplace and roll the Dough out evenly. Spread the sauce over the dough. First put the Prosciutto on the Pizza then sprinkle the Cheese over the Pizza. Put the Pizza in the oven for 10 min at 220 degrees.
+Take out the Pizza and Voila your Pizza is done!
+
+## Recipe 3
+Spaghetti Bolognese
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1 tbsp olive oil
+- 1 onion, peeled and finely diced
+- 2 cloves garlic, peeled and minced
+- 400g minced beef
+- 1 carrot, peeled and finely diced
+- 3 tbsp tomato puree
+- 1 tsp dried oregano
+- ½ tsp dried thyme
+- 1 beef stock cube, crumbled
+- 2 x 400g canned chopped tomatoes
+- ½ tsp salt
+- ½ tsp black pepper
+- 300g spaghetti
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pot, stove
+
+#### The Bolognese
+For the Bolognese put Onions and Garlic into the pot coook them until they are softened. Add the carrots and minced beef and cook everything together until its browned. Then put in the 2x400g canned chopped Tomatoes and the 3 tbsp of Tomato Paste into the pot. Season it with Salt, Pepper and Oregano.
+Turn down the heat and let it simmer for about 10 to 12 min. Now cook the Spaghetti.
+
+#### The Spaghetti
+For the Spaghetti put them in a pot of boiling water. Cook them as described on the packaging.
+
+#### Serve
+Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
+
+## Recipe 4
+Broccoli Rice Noodles
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 200g Rice Noodles
+- 100g Broccoli
+- 1 chicken breast
+- Soy Sauce
+- 1 clove Garlic
+- Olive Oil
+- 2 Eggs
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pan, stove, bowl, boiling Water
+
+#### The Preparation
+For the Preparation it is very important to boil some water and put the Rice Noodles in your bowl. Pour the hot water over the Noodles to rehydrate them. Then beginn to slice the chicken in very thin strips so they cook evenly later. Now take the Broccoli and slice it also in bite-sized peaces. Then slice the Garlic.
+
+#### Cooking
+Pour some Olive Oil into your pan and cook the chicken season it with some salt and pepper. Now add the garlic and cook it crispy brown. Put the Broccoli into the pan and season everything with Soy Sauce cook it for a bit longer and take it our of your pan into a bowl. Drain your noodles, Oil your pan again and break 2 eggs and put them into a bowl, whisk them and put them into your pan. Make some Scrambled Egg. When done add the Noddles, and the Chicken with Broccoli and Garlic into the pan and cook it again for just a bit.
+
+#### Serve
+Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
+
+## Recipe 5
+Lasagne al Forno
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 400g mince Meat
+- 2 onion
+- 300 g carrots
+- Olive Oil
+- 1 Box of Lasagne Plates
+- 300g celery
+- 2 x 400g canned chopped tomatoes
+- 50g Butter
+- 2 x 400g canned lentils
+- 2 leeks
+- 4 tbsp flour
+- 1l Milk
+- Cheddar Cheese
+- Parmesan
+- Smoked Mozzarella
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 3 h
+Required Utensils: 2 pans, stove, oven, baking dish
+
+#### The Preparation
+Slice the vegtables in small Pieces.
+
+#### Cooking
+Pour some Olive Oil in the pan and add the minced Meat. Cook it until its nice and brown. Add the vegtables and cook them ass well. Pour in the lentils, the canned Tomatoes and fill the cans from the tomatoes with water and add this water ass well, let it cook for 1 and a half hour. Put the 50g of Butter into the other pan and while waiting for it to heat up, chop the leek. Add the leek to the pan when its heated and put in the flour. Add the Milk and stir until its boiling. Take a hand blender to puree everything. Grate some Cheddar, Parmesan and Smoked Mozzarella into the sauce, finished.
+
+#### Assemble
+Take your baking dish and cover the bottom of the dish with the Meat. Put the Lasagne Plates and cover the first layer with it. Take the sauce and cover the plates as well. Repeat this until the baking dish is filled up. Now put some grated Cheese on top and put it in the oven until it is nice, brown and crispy.
+
+## Recipe 6
+Vanilla Pudding
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1/3 cup granulated sugar
+- 3 tablespoons cornstarch
+- 1/8 teaspoon salt
+- 2-1/4 cups whole milk
+- 2 large egg yolks
+- 1 tablespoon unsalted butter
+- 1-1/2 teaspoons pure vanilla extract
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 35 min
+Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+
+#### Cooking
+In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
+Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
+Remove from heat and whisk in butter and vanilla extract. 
+If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
+Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
+
+## Recipe 7
+Waffels
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 2 cups all-purpose flour
+- 1 teaspoon salt
+- 4 teaspoons baking powder
+- 2 tablespoons white sugar
+- 2 eggs
+- 1 ½ cups warm milk
+- ⅓ cup butter, melted
+- 1 teaspoon vanilla extract
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 35 min
+Required Utensils: saucepan, fine mesh strainer, large bowl or serving bowls
+
+#### Cooking
+In a medium saucepan whisk together sugar, cornstarch, salt, milk, and egg yolks. Cook over medium-low heat, whisking occasionally, until the mixture is bubbling all throughout.
+Once bubbling, continue cooking for one to two additional minutes, whisking once or twice, but not too vigorously. At this point the pudding should be thickened but still pourable, it will thicken more as it cools.
+Remove from heat and whisk in butter and vanilla extract. 
+If you want to remove lumps: Place a fine mesh strainer over a large heatproof bowl. Pour the mixture through the strainer and into the bowl. Skip this step if you don't notice any lumps in your pudding.
+Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
