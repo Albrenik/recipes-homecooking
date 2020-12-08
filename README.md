@@ -288,23 +288,34 @@ Cook the Chicken in the pan until it has a nice brown crust.
 Combine all ingredients in a casserole dish.
 Cover the casserole with cheese and put it in the oven at 200 degrees.
 
-## Recipe 8
-[Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
+## Recipe 9
+[Homemade burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
 
 #### Picture of the Recipe
 
 ### Ingredients
 
-- 1kg mixed berries and fruits (cherries, raspberries, red and black currants, blackberries, strawberries etc.)
-- 75g sugar
-- 2 tbsp potato starch
+- 1/2 table spoon olive oil or any cooking oil
+- 1 onion peeled and finely chopped
+- 500g Beef steak ( quantity of your choice)
+- 1 table spoon mixed dried herbs
+- 1 egg
+- 4 white rolls
+- few round lettuce leaves, torn
+- 1 beef tomato, sliced
+- salt
+- buns
+- ketchup ( to serve)
 
 ### Cooking Instruction
-Estimated Time needed to cook the recipe: 30 min
-Required Utensils: oven, casserole dish, pot, pan
+Estimated Time needed to cook the recipe: 40 min
+Required Utensils: friying pan, bowl, pot, grill
 
 #### Cooking
-Put the fruits and sugar in a pot and simmer until it's smooth.
-Mix the potato starch with a little bit of the fruit liquid and pour it into the fruit jelly.
-Let it boil briefly then fill into a big bowl or in portions in little bowls or glasses and let it cool down.
-Now you can serve it.
+Heat the olive oil in frying pan, add the onion and cook 5 minutes until it softened and starting to turn golden.
+In a bowl combine the beef mince with the herbs and the egg. Season, add the onions and mix well. 
+Cook the burger on the preheated barbecue or grille for 5-6 minutes on each side.
+while the second side is cooking, lay a slice of cheese on top to melt slightly.
+Meanwhile, Cut the bun and lightly toast the cut-sides on the barbecue.
+Fill with the lettuce, burgers and tomato slices. serve with ketchup, if you want.
+
