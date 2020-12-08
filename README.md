@@ -32,7 +32,7 @@ The list of all the recipe webpages with their titles, ingredients, cooking time
 ## Structure of a recipe Website
 
 ## Recipe 1
-Pizza Margherita
+[Pizza Margherita](https://www.youtube.com/watch?v=az5D8C6K5Dk)
 
 #### Picture of the Recipe
 
@@ -75,7 +75,7 @@ After you took out your Pizza, spread some basil if you like and slice the Pizza
 Voila your Pizza is done!
 
 ## Recipe 2
-Pizza Prosciutto
+[Pizza Prosciutto](https://www.youtube.com/watch?v=ae-8_5zdUgI)
 
 #### Picture of the Recipe
 
@@ -116,7 +116,7 @@ Take your Dough and cut it in 4 equal sized Pieces. Take one piece, put some Flo
 Take out the Pizza and Voila your Pizza is done!
 
 ## Recipe 3
-Spaghetti Bolognese
+[Spaghetti Bolognese](https://www.youtube.com/watch?v=v2WqcHH65NQ)
 
 #### Picture of the Recipe
 
@@ -151,7 +151,7 @@ For the Spaghetti put them in a pot of boiling water. Cook them as described on 
 Put some Spaghetti on a plate add some Bolognese and taste your delicious food.
 
 ## Recipe 4
-Broccoli Rice Noodles
+[Broccoli Rice Noodles](https://www.youtube.com/watch?v=mhDJNfV7hjk)
 
 #### Picture of the Recipe
 
@@ -179,7 +179,7 @@ Pour some Olive Oil into your pan and cook the chicken season it with some salt 
 Put everything in your pan on a plate and serve it. Done is the Broccoli Rice Noddle recipe.
 
 ## Recipe 5
-Lasagne al Forno
+[Lasagne al Forno](https://www.youtube.com/watch?v=GK7GObLUCWU)
 
 #### Picture of the Recipe
 
@@ -215,7 +215,7 @@ Pour some Olive Oil in the pan and add the minced Meat. Cook it until its nice a
 Take your baking dish and cover the bottom of the dish with the Meat. Put the Lasagne Plates and cover the first layer with it. Take the sauce and cover the plates as well. Repeat this until the baking dish is filled up. Now put some grated Cheese on top and put it in the oven until it is nice, brown and crispy.
 
 ## Recipe 6
-Vanilla Pudding
+[Vanilla Pudding](https://celebratingsweets.com/homemade-vanilla-pudding/)
 
 #### Picture of the Recipe
 
@@ -241,20 +241,13 @@ If you want to remove lumps: Place a fine mesh strainer over a large heatproof b
 Transfer the pudding into a large bowl or into individual serving bowls. Cool until it is lukewarm, then cover with plastic wrap. Refrigerate for several hours or until chilled.
 
 ## Recipe 7
-Waffels
+[Waffels](https://www.allrecipes.com/recipe/20513/classic-waffles/)
 
 #### Picture of the Recipe
 
 ### Ingredients
+Flour, Salt, Baking Powder, Sugar, Eggs, Milk, Butter, Vanilla Extract | 30 min |
 
-- 2 cups all-purpose flour
-- 1 teaspoon salt
-- 4 teaspoons baking powder
-- 2 tablespoons white sugar
-- 2 eggs
-- 1 ½ cups warm milk
-- ⅓ cup butter, melted
-- 1 teaspoon vanilla extract
 
 ### Cooking Instruction
 Estimated Time needed to cook the recipe: 35 min
