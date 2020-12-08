@@ -277,6 +277,8 @@ Ladle the batter into the preheated waffle iron. Cook the waffles until golden a
 - 300g of chicken 
 - 1-3 bags of Cheese
 - Olive Oil
+- butter
+- butter crackers (optional)
 
 ### Cooking Instruction
 Estimated Time needed to cook the recipe: 30 min
@@ -287,6 +289,11 @@ Cook the Pasta by following the instruction on the packaging.
 Cook the Chicken in the pan until it has a nice brown crust.
 Combine all ingredients in a casserole dish.
 Cover the casserole with cheese and put it in the oven at 200 degrees.
+Meanwhile, in a sauce pan add the couple of ounces of condensed mushroom soup, condensed chicken soup and 1 cup of sour cream; season it with salt and pepper and 
+heat it mildly and stir it finely.
+Pour this mixture in casserole dish; mix the chicken and pasta to it. Then take a half a cup of butter melt it; in addition, you could mix it with crumbled buttery 
+crackers. 
+Heat it in the oven for 30 minutes until it heated through and browned in top.
 
 ## Recipe 9
 [Homemade burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
