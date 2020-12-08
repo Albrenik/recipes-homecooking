@@ -8,9 +8,7 @@ link to the recipe inventory and a link to a webpage filled with some more video
 recipes.
 ## Style and feel
 ### Colors
-you can use the following colors for the website
-Background color: white, dark grey, light grey, red, blue
-If needed you could use other colors suitable for the design
+We want a nice blue as our as the base color. To make everything look pleasant we want a light grey background around our content like the recipe instructions. To our accent color we want a suitable accent color.
 
 ### Logo
 The Logo should contain a simple Cook's hat with a crossed spoon and fork; this image should be displayed in bookmark icon aswell.
@@ -19,7 +17,7 @@ The Logo should contain a simple Cook's hat with a crossed spoon and fork; this 
 For our webside we want the Font Georgia.
 
 ### Layout
-You can use the reference from the provided sample images.
+You can use the the provided sample images as reference.
 
 ## List of Recipes
 ### Description
@@ -308,6 +306,47 @@ crackers.
 Heat it in the oven for 30 minutes until it heated through and browned in top.
 
 ## Recipe 9
+[Red Fruit Jelly](https://yeoldekitchen.com/en/blog/red-fruit-jelly/)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 1kg mixed berries and fruits 
+- 75g sugar
+- 1 tbsp potato starch
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 30 min
+Required Utensils: pot, 1 big bowl, serving bowls
+
+#### Cooking
+Put the fruits with sugar in a pot and simmer until it's smooth. 
+Mix the potato starch with a little bit of the fruit liquid and pour into the fruit jelly. 
+Boil it boil briefly, fill into a big bowl or in portions in little bowls or glasses and let it cool down.
+
+## Recipe 10
+[Vanilla Ice Cream](https://addapinch.com/old-fashioned-vanilla-ice-cream-recipe/#wprm-recipe-container-28876)
+
+#### Picture of the Recipe
+
+### Ingredients
+
+- 4 Egg yolks
+- 1/2 cup granulated Sugar
+- 1 cup Whole Milk
+- 1 cup Heavy Cream
+- 2 teaspoon Vanilla Bean Paste or Vanilla Extract
+
+### Cooking Instruction
+Estimated Time needed to cook the recipe: 2h min
+Required Utensils: 2 saucepans, ice cream maker
+
+#### Cooking
+Add egg yolks and sugar to a medium saucepan and whisk until a light yellow color and it's well combined. In another small sauce pan, heat milk over medium-low heat until it just begins to simmer. Do not stir. Gradually add milk to egg and sugar mixture, stirring constantly. Return to heat until it reaches 75º C, but do not allow it to come to a boil. As soon as it reaches the correct temperature, remove it from the heat. Pour custard base into an airtight container and store in the refrigerator until it chills to 18º C. The longer the custard base chills, the creamier your ice cream will be.
+Once the custard base is ready, stir in the heavy cream and vanilla extract and pour it into your ice cream maker and process according to your ice cream maker’s instructions.
+
+## Recipe 11
 [Homemade burger](https://realfood.tesco.com/recipes/classic-homemade-burger.html)
 
 #### Picture of the Recipe
@@ -338,7 +377,7 @@ while the second side is cooking, lay a slice of cheese on top to melt slightly.
 Meanwhile, Cut the bun and lightly toast the cut-sides on the barbecue.
 Fill with the lettuce, burgers and tomato slices. serve with ketchup, if you want.
 
-## Recipe 10
+## Recipe 12
 [Roasted Almonds](https://www.internationaldessertsblog.com/german-gebrannte-mandeln-cinnamon-sugared-almonds/)
 
 #### Picture of the Recipe
