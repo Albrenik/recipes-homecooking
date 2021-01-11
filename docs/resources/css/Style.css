@@ -1,0 +1,610 @@
+/*body{
+    color: blueviolet;
+    font-family: Arial;
+    background-color: goldenrod;
+    display: grid;
+
+
+
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-template-areas:
+                "logo nav"
+                "section sidebar"
+                    "footer footer";
+}
+
+header{
+display: block;
+padding-top: 10px;
+padding-bottom: 10px;
+    background-color: #ff5900;
+
+
+}
+
+*/
+/*Reset*/
+
+
+
+body{
+    background-color: lightgray;
+    color: #BA0C2F;
+    font-size: 1.5rem;
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.1fr 1.5fr 10fr 5fr 0.6fr;
+    grid-template-areas:
+            "nav nav nav nav nav nav"
+            "content1 content1 content1 content1 content1 content1"
+            "main main main main sidebar sidebar"
+            "sec1 sec1 sec1 sec2 sec2 sec2"
+            "footer footer footer footer footer footer";
+    grid-gap: 0.8rem;
+
+}
+
+/*------------------------------*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.bg-color{
+    background-color: #68d6ce;
+}
+
+
+.text-center{
+    text-align: center;
+
+}
+.l-heading{
+
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    padding-top: 2rem;
+    padding-bottom:2rem ;
+
+
+  }
+.ll-heading{
+
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 2rem;
+
+}
+.btn{
+    color: #BA0C2F;
+    background-color: #68d6ce;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    font-size: 2rem;
+
+
+}
+.btn:hover{
+    background-color: #070707 ;
+
+}
+.current{
+    font-weight: bolder;
+    background-color: rgba(0,0,0,0.2);
+}
+.current-recipe{
+    font-weight: bolder;
+    font-size: 2rem;
+
+}
+
+
+
+/*-------Navbar-----------------------*/
+
+nav{
+    position: absolute;
+    top:  0;
+    left: 0;
+    padding: 0 100px;
+    width: 100%;
+    box-sizing:border-box ;
+    grid-area: nav;
+    border-radius: 0.5rem;
+}
+
+#navbar .Logo img{
+    width: 80px;
+
+    padding-top: 0;
+    padding-left: 20px;
+;
+}
+#navbar ul{
+   margin: 0;
+    padding: 0;
+    display: flex;
+    grid-area: Navbar;
+
+    justify-content: space-between;
+
+
+}
+
+#navbar ul li{
+    list-style: none;
+    position: relative;
+}
+#navbar ul li a{
+    color:	#BA0C2F ;
+    cursor: pointer;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+    text-decoration: none;
+    display: block;
+    font-size: 2rem;
+
+
+
+
+
+}
+#navbar ul li ul{
+    background-color: #68d6ce;
+    position: absolute;
+    left: 0;
+    display: none;
+}
+#navbar ul li ul li{
+    display: block;
+    width: 390px;
+}
+#navbar ul li:hover ul{
+    display: block;
+}
+#navbar{
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+        "Logo Navbar Navbar Navbar"
+;
+    grid-gap: 0.2rem;
+
+}
+#navbar ul li a:hover{
+    background: #070707;
+    border-radius: 0.5rem;
+
+}
+#navbar .Logo img{
+    width: 130px;
+
+    padding-top: 0;
+    padding-left: 20px;
+;
+}
+#navbar .Logo{
+    grid-area: Logo;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+}
+
+/*
+#navbar .Logo {
+
+    grid-area: Logo;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+
+}*/
+
+/*Reset*/
+
+/*
+#navbar{
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-areas:
+        "Logo Navbar Navbar "
+        ;
+    grid-gap: 0.2rem;
+
+
+
+}
+#navbar ul{
+    list-style: none;
+    display: inline-flex;
+    grid-area: Navbar;
+    background-color: #3de72a;
+    justify-content: center;
+    padding: 0.8rem;
+
+}
+#navbar ul li{
+    list-style: none;
+    position: relative;
+}
+#navbar ul li a{
+    color:	#BA0C2F ;
+    padding: 2rem;
+    cursor: pointer;
+
+
+
+}
+
+
+#navbar ul li a:hover{
+    background: #070707;
+    border-radius: 0.5rem;
+}
+
+#navbar .Logo img{
+    width: 80px;
+
+    padding-top: 0;
+    padding-left: 20px;
+;
+}
+#navbar .Logo{
+
+    grid-area: Logo;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+
+
+}
+
+nav{
+    grid-area: nav;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+
+}*/
+/*-------Content-----------------------*/
+
+#content1{
+    background-color: black;
+    grid-area: content1;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+}
+#content1 >div{
+    margin-top: 2rem;
+
+}
+
+/*-------Main-----------------------------------------------*/
+
+main{
+
+    grid-area: main;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+
+
+
+
+}
+/*------inner-grid-----------------*/
+.inner-grid{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 5fr 5fr ;
+    grid-gap: 0.5rem;
+    grid-template-areas:
+            "one tow"
+            "three four";
+
+
+    background-color: #070707;
+}
+.inner-grid > div{
+
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    /*justify-content: center;*/
+    display: grid;
+
+}
+
+
+.main-img img{
+   width: 100%;
+    height: 75%;
+    border-radius: 1rem;
+   /* padding: 0.5rem;
+    background-color: rgba(0,0,0,0.8);*/
+
+    padding: 0.5rem;
+    object-fit: cover;
+}
+
+
+
+/*-----inner-grid-classes-----*/
+
+.one{grid-area: one;background-color:lightgray;}
+
+
+.tow{grid-area: tow;background-color:lightgray;}
+
+
+.three{grid-area: three;background-color:lightgray;}
+
+
+.four{grid-area: four;background-color:lightgray;}
+
+
+
+/*---------recipes-pages--------------------------------------*/
+/*------recipes-img ------------*/
+
+.recipes-img img{
+    max-width: 90%;
+    width: 700px;
+    height: 750px;
+    padding-top: 0.5rem;
+    object-fit:cover;
+    border-radius: 1rem;
+}
+
+.instructions{
+    grid-row-start: three;
+    grid-column-start: three;
+    grid-row-end: four;
+    grid-column-end: four;
+    background-color: lightgray;
+    border-radius: 0.5rem;
+
+
+
+}
+
+.instructions >p{
+    background-color:rgba(0,0,0,0.1);
+}
+.instructions >h2 {
+   /* background-color:rgba(0,0,0,0.1);*/
+}
+.instructions >h3 {
+  /*  background-color:rgba(0,0,0,0.1);*/
+}
+.tow .ingredients{
+    /*background-color: rgba(0,0,0,0.1);*/
+    border-radius: 0.5rem;;
+    padding-top: 1rem;
+    margin-left:2rem ;
+
+
+}
+
+
+.tow .ingredients ul{
+    margin: 0;
+    padding: 0;
+    display: block;
+
+
+}
+.tow .ingredients ul li{
+    list-style: none;
+    position: relative;
+    margin: 2rem;
+
+
+
+}
+/*-----landmark--------------*/
+
+
+
+/*-----sidebar-----------------------------------------*/
+#sidebar{
+    grid-area: sidebar;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 2rem;
+    display: grid;
+    /*background-color: #68d6ce;*/
+    margin: 1rem;
+    justify-content: center;
+
+}
+
+
+
+#sidebar a{
+    text-decoration: none;
+    background-color: rgba(0,0,0,1);
+    border-radius: 1rem;
+    margin: 1rem;
+    padding-top: 1.5rem;/*@media */
+    color: #BA0C2F;
+
+}
+
+
+/*
+#sidebar  ul li a{
+    text-decoration: none;
+    color: #BA0C2F;
+    font-size: 2rem;
+
+
+}
+
+#sidebar  ul{
+
+   background-color: #3de72a;
+
+    padding-left: 2rem;
+    height: 100%;
+
+}
+#sidebar  ul li{
+
+    list-style: none;
+    position: relative;
+
+
+}
+#sidebar ul li a:hover{
+    background: #070707;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+
+}
+*/
+/*-----section-----------------------------------------*/
+#sec1{
+    background-color:  #68d6ce;
+    grid-area: sec1;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    margin: 2rem;
+}
+#sec1>p{
+    padding: 2rem;
+    margin-top: 1rem;
+}
+#sec2{
+    background-color:  #68d6ce;
+    grid-area: sec2;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+    margin: 2rem;
+}
+#sec2>p{
+    padding: 2rem;
+    margin-top: 1rem;
+}
+
+/*--------section-Video-----------------------------------*/
+.video{
+
+    grid-row-start: sec1;
+    grid-column-start: sec1;
+    grid-row-end: sec2;
+    grid-column-end: sec2;
+    text-align: center;
+
+
+    border-radius: 8rem;
+    max-width: 100%;
+    background-color: #68d6ce;
+    padding: 3rem;
+    margin: 2rem;
+
+
+
+
+
+}
+
+
+
+
+
+footer{
+    grid-area: footer;
+    border-radius: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+@media only screen and (max-width: 1250px){
+
+
+    #navbar {
+        grid-template-columns: 1fr;
+        grid-template-rows:0.3fr 0.1fr ;
+        grid-template-areas:
+                " Logo"
+                 "Navbar";
+        padding: 0;
+    }
+
+    body{
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.4fr 0.6fr 10fr 3fr 2fr 2fr 0.4fr ;
+        grid-template-areas:
+            "nav "
+            "content1"
+            "main"
+            "sidebar"
+            "sec1"
+            "sec2"
+            "footer";
+        grid-gap: 0.5rem;
+
+    }
+    #navbar .Logo{
+
+        text-align: center;
+
+    }
+    .inner-grid{
+        grid-template-columns: 1fr ;
+        grid-template-rows:2fr 2fr 2fr  2fr;
+        grid-template-areas:
+                "one"
+                "tow"
+                "three"
+                "four";
+        grid-gap: 0.5rem;
+
+    }
+    .tow .ingredients{
+        background-color: #070707;
+        border-radius: 0.5rem;;
+        padding-top: 1rem;
+
+        margin-left:0;
+
+
+ }
+
+  /*  #slide-container{
+
+        grid-template-columns: 1fr ;
+        grid-template-rows: 0.2fr 1.8fr 0.2fr 1.8fr ;
+        grid-gap: 0.8rem;
+
+    }*/
+
+
+
+    }
+
+
