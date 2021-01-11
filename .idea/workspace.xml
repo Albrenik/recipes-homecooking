@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="" />
+    <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,28 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/resources" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.broccoli-rice-noodles.html">
+    <configuration name="broccoli-rice-noodles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/broccoli-rice-noodles.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="chicken-noodle-casserole.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/chicken-noodle-casserole.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="homemade-burger.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/homemade-burger.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lasagne-al-forno.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/lasagne-al-forno.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.broccoli-rice-noodles.html" />
+        <item itemvalue="JavaScript Debug.lasagne-al-forno.html" />
+        <item itemvalue="JavaScript Debug.homemade-burger.html" />
+        <item itemvalue="JavaScript Debug.chicken-noodle-casserole.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
