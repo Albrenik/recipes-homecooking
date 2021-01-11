@@ -38,7 +38,7 @@ body{
     display: grid;
 
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 0.1fr 1.5fr 10fr 5fr 0.6fr;
+    grid-template-rows: 0.4fr 1.5fr 10fr 5fr 0.6fr;
     grid-template-areas:
             "nav nav nav nav nav nav"
             "content1 content1 content1 content1 content1 content1"
@@ -182,7 +182,7 @@ nav{
     top: 0;
     z-index: 1;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
-    grid-template-rows: 1fr;
+    grid-template-rows: 0.6fr;
     grid-template-areas:
         "Logo Navbar Navbar Navbar"
 ;
@@ -195,7 +195,7 @@ nav{
 
 }
 #navbar .Logo img{
-    width: 130px;
+    width: 80px;
 
     padding-top: 0;
     padding-left: 20px;
@@ -319,7 +319,7 @@ main{
 
     display: grid;
     grid-template-columns: 1fr 1fr ;
-    grid-template-rows: 5fr 5fr ;
+    grid-template-rows: 3fr 3fr ;
     grid-gap: 0.5rem;
     grid-template-areas:
             "one tow"
@@ -493,7 +493,7 @@ main{
     grid-area: sec1;
     border-radius: 0.5rem;
     padding-top: 0.5rem;
-    margin: 2rem;
+    margin: 4rem;
 }
 #sec1>p{
     padding: 2rem;
@@ -504,7 +504,7 @@ main{
     grid-area: sec2;
     border-radius: 0.5rem;
     padding-top: 0.5rem;
-    margin: 2rem;
+    margin: 4rem;
 }
 #sec2>p{
     padding: 2rem;
