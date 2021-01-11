@@ -1,29 +1,29 @@
     Developer :Mohammad Alharran,Sebastian Pfitzmann
 
-- ###Design Creation of Protype:         Mohammad Alharran
--   ###Creation of Logo:                   Mohammad Alharran
--   ###General Structure:                  Mohammad Alharran
--   ###JavaScript:                          Mohammad Alharran
+###Design Creation of Protype:         Mohammad Alharran
+  ###Creation of Logo:                   Mohammad Alharran
+  ###General Structure:                  Mohammad Alharran
+   ###JavaScript:                          Mohammad Alharran
 #webPages
-- ###roasted-almonds.html :               Mohammad Alharran,Sebastian Pfitzmann  
-- ###broccoli-rice-noodles.html:          Mohammad Alharran,Sebastian Pfitzmann  
-- ###homemade-burger.html:                Mohammad Alharran,Sebastian Pfitzmann  
-- ###chicken-noodle-casserole.html:       Mohammad Alharran,Sebastian Pfitzmann  
-- ###waffles.html:                        Mohammad Alharran,Sebastian Pfitzmann    
-- ###vanilla-pudding.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ###lasagne-al-forno.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ###pizza-margherita.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ###vanilla-ice-cream.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ###spaghetti-bolognese.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ### red-fruit-jelly.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ### pizza-prosciutto.html:Mohammad Alharran,Sebastian Pfitzmann  
-- ###index.html:           Mohammad Alharran,Sebastian Pfitzmann  
-- ###recipes.html:         Mohammad Alharran,Sebastian Pfitzmann  
-- ###new.html:             Mohammad Alharran,Sebastian Pfitzmann  
-- ###Top-Recipes.html :Mohammad Alharran,Sebastian Pfitzmann
-- ###top-5-recipes.html :Mohammad Alharran,Sebastian Pfitzmann
-- ###Validition          Sebastian Pfitzmann         
-- ###fixes :       Mohammad Alharran,Sebastian Pfitzmann
+###roasted-almonds.html :               Mohammad Alharran,Sebastian Pfitzmann  
+###broccoli-rice-noodles.html:          Mohammad Alharran,Sebastian Pfitzmann  
+###homemade-burger.html:                Mohammad Alharran,Sebastian Pfitzmann  
+###chicken-noodle-casserole.html:       Mohammad Alharran,Sebastian Pfitzmann  
+###waffles.html:                        Mohammad Alharran,Sebastian Pfitzmann    
+###vanilla-pudding.html:Mohammad Alharran,Sebastian Pfitzmann  
+###lasagne-al-forno.html:Mohammad Alharran,Sebastian Pfitzmann  
+###pizza-margherita.html:Mohammad Alharran,Sebastian Pfitzmann  
+###vanilla-ice-cream.html:Mohammad Alharran,Sebastian Pfitzmann  
+###spaghetti-bolognese.html:Mohammad Alharran,Sebastian Pfitzmann  
+### red-fruit-jelly.html:Mohammad Alharran,Sebastian Pfitzmann  
+### pizza-prosciutto.html:Mohammad Alharran,Sebastian Pfitzmann  
+###index.html:           Mohammad Alharran,Sebastian Pfitzmann  
+###recipes.html:         Mohammad Alharran,Sebastian Pfitzmann   
+###new.html:             Mohammad Alharran,Sebastian Pfitzmann  
+###Top-Recipes.html :Mohammad Alharran,Sebastian Pfitzmann
+###top-5-recipes.html :Mohammad Alharran,Sebastian Pfitzmann
+###Validition          Sebastian Pfitzmann         
+###fixes :       Mohammad Alharran,Sebastian Pfitzmann
 
 
 
