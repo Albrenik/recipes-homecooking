@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testweb" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,25 +38,29 @@
       <recent name="$PROJECT_DIR$/docs/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.broccoli-rice-noodles.html">
-    <configuration name="broccoli-rice-noodles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/broccoli-rice-noodles.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="chicken-noodle-casserole.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/chicken-noodle-casserole.html" useBuiltInWebServerPort="true">
+    <configuration name="spaghetti-bolognese.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/spaghetti-bolognese.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="homemade-burger.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/homemade-burger.html" useBuiltInWebServerPort="true">
+    <configuration name="vanilla-ice-cream.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/vanilla-ice-cream.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="lasagne-al-forno.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/lasagne-al-forno.html" useBuiltInWebServerPort="true">
+    <configuration name="vanilla-pudding.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/vanilla-pudding.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="waffles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/waffles.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.broccoli-rice-noodles.html" />
-        <item itemvalue="JavaScript Debug.lasagne-al-forno.html" />
-        <item itemvalue="JavaScript Debug.homemade-burger.html" />
-        <item itemvalue="JavaScript Debug.chicken-noodle-casserole.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.waffles.html" />
+        <item itemvalue="JavaScript Debug.spaghetti-bolognese.html" />
+        <item itemvalue="JavaScript Debug.vanilla-ice-cream.html" />
+        <item itemvalue="JavaScript Debug.vanilla-pudding.html" />
       </list>
     </recent_temporary>
   </component>
