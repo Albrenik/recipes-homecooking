@@ -20,6 +20,7 @@
 
 .l-heading{
 
+	color: #E7A22F;
     font-size: 2.5rem;
     text-transform: uppercase;
     padding-top: 2rem;
@@ -39,7 +40,7 @@
 
 
 .btn{
-    color: #BA0C2F;
+    color: #650C2F;
     background-color: #68d6ce;
     padding: 1rem;
     border-radius: 1rem;
@@ -51,7 +52,7 @@
 
 
 .btn:hover{
-    background-color: #070707 ;
+    background-color: #D4CACA ;
 
 }
 .current{
@@ -63,7 +64,7 @@
 
 body{
     background-color: lightgray;
-    color: #BA0C2F;
+    color: #650C2F;
     font-size: 1.5rem;
 
     display: grid;
@@ -127,7 +128,7 @@ nav{
 
 }
 #navbar ul li a{
-    color:	#BA0C2F ;
+    color:	#650C2F ;
     cursor: pointer;
     height: 50px;
     line-height: 50px;
@@ -155,7 +156,7 @@ nav{
     display: block;
 }
 #navbar ul li a:hover{
-    background: #070707;
+    background: #D4CACA;
     border-radius: 0.5rem;
 
 }
@@ -268,7 +269,7 @@ main{
     width: 40px;
     background-color: lightgray;
     border-radius: 50%;
-    color:#BA0C2F;
+    color:##7F061E;
     font-size: 20px;
     top:50%;
     cursor: pointer;

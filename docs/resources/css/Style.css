@@ -32,7 +32,7 @@ padding-bottom: 10px;
 
 body{
     background-color: lightgray;
-    color: #BA0C2F;
+    color: #650C2F;
     font-size: 1.5rem;
 
     display: grid;
@@ -70,6 +70,7 @@ body{
 }
 .l-heading{
 
+	color: #E7A22F;
     font-size: 2.5rem;
     text-transform: uppercase;
     padding-top: 2rem;
@@ -85,8 +86,8 @@ body{
 
 }
 .btn{
-    color: #BA0C2F;
-    background-color: #68d6ce;
+    color: #650C2F;
+    background-color: #68D6CE;
     padding: 1rem;
     border-radius: 1rem;
     text-decoration: none;
@@ -95,7 +96,7 @@ body{
 
 }
 .btn:hover{
-    background-color: #070707 ;
+    background-color: #D4CACA ;
 
 }
 .current{
@@ -146,7 +147,7 @@ nav{
     position: relative;
 }
 #navbar ul li a{
-    color:	#BA0C2F ;
+    color:	#650C2F ;
     cursor: pointer;
     height: 50px;
     line-height: 50px;
@@ -161,7 +162,7 @@ nav{
 
 }
 #navbar ul li ul{
-    background-color: #68d6ce;
+    background-color: #68D6CE;
     position: absolute;
     left: 0;
     display: none;
@@ -190,7 +191,7 @@ nav{
 
 }
 #navbar ul li a:hover{
-    background: #070707;
+    background: #D4CACA;
     border-radius: 0.5rem;
 
 }
@@ -447,11 +448,11 @@ main{
 
 #sidebar a{
     text-decoration: none;
-    background-color: rgba(0,0,0,1);
+    background-color: #68D6CE;
     border-radius: 1rem;
     margin: 1rem;
     padding-top: 1.5rem;/*@media */
-    color: #BA0C2F;
+    color: #650C2F;
 
 }
 
@@ -489,7 +490,7 @@ main{
 */
 /*-----section-----------------------------------------*/
 #sec1{
-    background-color:  #68d6ce;
+    background-color:  #68D6CE;
     grid-area: sec1;
     border-radius: 0.5rem;
     padding-top: 0.5rem;
@@ -500,7 +501,7 @@ main{
     margin-top: 1rem;
 }
 #sec2{
-    background-color:  #68d6ce;
+    background-color:  #68D6CE;
     grid-area: sec2;
     border-radius: 0.5rem;
     padding-top: 0.5rem;
