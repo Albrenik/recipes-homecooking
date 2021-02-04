@@ -132,7 +132,7 @@ nav{
 ;
 }
 #navbar ul{
-   margin: 0;
+    margin: 0;
     padding: 0;
     display: flex;
     grid-area: Navbar;
@@ -185,8 +185,7 @@ nav{
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     grid-template-rows: 0.6fr;
     grid-template-areas:
-        "Logo Navbar Navbar Navbar"
-;
+        "Logo Navbar Navbar Navbar";
     grid-gap: 0.2rem;
 
 }
@@ -551,7 +550,6 @@ footer{
 
 @media only screen and (max-width: 1250px){
 
-
     #navbar {
         grid-template-columns: 1fr;
         grid-template-rows:0.3fr 0.1fr ;
@@ -559,6 +557,23 @@ footer{
                 " Logo"
                  "Navbar";
         padding: 0;
+    }
+    #navbar ul li a{
+        color:	#650C2F ;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 7px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.5rem;
+
+    }
+    .btn{
+        font-size: 1.5rem;
+    }
+    .l-heading{
+        font-size: 2rem;
     }
 
     body{
@@ -592,7 +607,6 @@ footer{
 
     }
     .tow .ingredients{
-        background-color: #070707;
         border-radius: 0.5rem;;
         padding-top: 1rem;
 
@@ -601,16 +615,190 @@ footer{
 
  }
 
-  /*  #slide-container{
 
-        grid-template-columns: 1fr ;
-        grid-template-rows: 0.2fr 1.8fr 0.2fr 1.8fr ;
-        grid-gap: 0.8rem;
 
-    }*/
+    }
+
+@media only screen and (max-width: 950px) {
+
+    #navbar ul li a {
+        color: #650C2F;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 5px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.25rem;
+
+    }
+
+    .btn {
+        font-size: 1.5rem;
+    }
+
+    .l-heading {
+        font-size: 2rem;
+    }
+
+
+    #navbar .Logo {
+
+        text-align: center;
+
+    }
+
+    .inner-grid {
+        grid-template-columns: 1fr;
+        grid-template-rows:2fr 2fr 2fr  2fr;
+        grid-template-areas:
+                "one"
+                "tow"
+                "three"
+                "four";
+        grid-gap: 0.5rem;
+
+    }
+    #sidebar{
+        grid-area: sidebar;
+        border-radius: 0.5rem;
+        padding: 0.5rem;
+        display: grid;
+        /*background-color: #68d6ce;*/
+        margin: 0.5rem;
+        justify-content: center;
+
+    }
+
+
+
+    #sidebar a{
+        text-decoration: none;
+        background-color: #68D6CE;
+        border-radius: 1rem;
+        margin: 0.5rem;
+        padding: 0.5rem;/*@media */
+        color: #650C2F;
+
+    }
+    #sec1{
+        background-color:  #68D6CE;
+        grid-area: sec1;
+        border-radius: 0.5rem;
+        padding-top: 0.5rem;
+        margin: 0.5rem;
+    }
+    #sec1>p{
+        padding: 2rem;
+        margin-top: 1rem;
+    }
+    #sec2{
+        background-color:  #68D6CE;
+        grid-area: sec2;
+        border-radius: 0.5rem;
+        padding-top: 0.5rem;
+        margin: 0.5rem;
+    }
+    #sec2>p{
+        padding: 2rem;
+        margin-top: 1rem;
+    }
+    .video{
+
+        margin: 0.6rem;
+
+
 
 
 
     }
 
+    iframe {
+        height: 100%;
+        width: 100%;
+    }
+
+}
+@media only screen and (max-width: 650px) {
+
+
+
+    #navbar ul li a {
+        color: #650C2F;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 5px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.2rem;
+
+    }
+
+    #navbar ul li{
+        list-style: none;
+        position: relative;
+
+    }
+    #sidebar{
+        grid-area: sidebar;
+        border-radius: 0.5rem;
+        padding: 0.5rem;
+        display: grid;
+        /*background-color: #68d6ce;*/
+        margin: 0.5rem;
+        justify-content: center;
+
+    }
+
+
+
+    #sidebar a{
+        text-decoration: none;
+        background-color: #68D6CE;
+        border-radius: 1rem;
+        margin: 0.5rem;
+        padding: 0.5rem;/*@media */
+        color: #650C2F;
+
+    }
+    #sec1{
+        background-color:  #68D6CE;
+        grid-area: sec1;
+        border-radius: 0.5rem;
+        padding-top: 0.5rem;
+        margin: 0.5rem;
+    }
+    #sec1>p{
+        padding: 2rem;
+        margin-top: 1rem;
+    }
+    #sec2{
+        background-color:  #68D6CE;
+        grid-area: sec2;
+        border-radius: 0.5rem;
+        padding-top: 0.5rem;
+        margin: 0.5rem;
+    }
+    #sec2>p{
+        padding: 2rem;
+        margin-top: 1rem;
+    }
+    .video{
+
+        margin: 0.5rem;
+
+
+
+
+
+    }
+
+    iframe {
+        height: 100%;
+        width: 100%;
+    }
+
+
+}
 

@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Top-Recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Top-Recipes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/broccoli-rice-noodles.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/broccoli-rice-noodles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chicken-noodle-casserole.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chicken-noodle-casserole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/homemade-burger.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/homemade-burger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lasagne-al-forno.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lasagne-al-forno.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pizza-margherita.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pizza-margherita.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pizza-prosciutto.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pizza-prosciutto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/recipes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/red-fruit-jelly.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/red-fruit-jelly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resources/css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resources/css/Style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resources/css/Style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/roasted-almonds.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/roasted-almonds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/spaghetti-bolognese.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/spaghetti-bolognese.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/top-5-recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/top-5-recipes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/vanilla-ice-cream.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vanilla-ice-cream.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/vanilla-pudding.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vanilla-pudding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/waffles.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/waffles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +48,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -39,16 +59,16 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="broccoli-rice-noodles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/broccoli-rice-noodles.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="recipes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/recipes.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="spaghetti-bolognese.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/spaghetti-bolognese.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="vanilla-ice-cream.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/vanilla-ice-cream.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="vanilla-pudding.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/vanilla-pudding.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="waffles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/waffles.html" useBuiltInWebServerPort="true">
@@ -57,10 +77,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.waffles.html" />
         <item itemvalue="JavaScript Debug.spaghetti-bolognese.html" />
-        <item itemvalue="JavaScript Debug.vanilla-ice-cream.html" />
-        <item itemvalue="JavaScript Debug.vanilla-pudding.html" />
+        <item itemvalue="JavaScript Debug.broccoli-rice-noodles.html" />
+        <item itemvalue="JavaScript Debug.recipes.html" />
+        <item itemvalue="JavaScript Debug.waffles.html" />
       </list>
     </recent_temporary>
   </component>
@@ -75,6 +95,8 @@
       <workItem from="1609141403574" duration="3114000" />
       <workItem from="1609221588269" duration="35000" />
       <workItem from="1609436217564" duration="641000" />
+      <workItem from="1612137810423" duration="5276000" />
+      <workItem from="1612376510128" duration="19900000" />
     </task>
     <servers />
   </component>

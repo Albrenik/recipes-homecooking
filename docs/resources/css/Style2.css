@@ -97,11 +97,11 @@ nav{
     top: 0;
     z-index: 1;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
-    grid-template-rows: 0.4fr;
+    grid-template-rows: 0.6fr;
     grid-template-areas:
         "Logo Navbar Navbar Navbar"
 ;
-    grid-gap: 0.1rem;
+    grid-gap: 0.2rem;
 
 }
 
@@ -117,7 +117,7 @@ nav{
     padding: 0;
     display: flex;
     grid-area: Navbar;
-    justify-content: space-evenly;
+    justify-content: space-between;
    /* justify-content: space-between;*/
 
 }
@@ -200,6 +200,38 @@ footer{
 /*-------------media-------------------------------------*/
 @media only screen and (max-width: 1250px) {
 
+    body{
+        grid-gap: 0.5rem;
+
+    }
+    #navbar {
+        grid-template-columns: 1fr;
+        grid-template-rows:0.3fr 0.1fr;
+        grid-template-areas:
+                " Logo"
+                 "Navbar";
+        padding: 0;
+    }
+
+    #navbar .Logo{
+
+        text-align: center;
+
+    }
+    #navbar ul li a{
+        color:	#650C2F ;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 7px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.5rem;
+
+    }
+}
+@media only screen and (max-width: 950px) {
+
 
     #navbar {
         grid-template-columns: 1fr;
@@ -213,6 +245,65 @@ footer{
     #navbar .Logo{
 
         text-align: center;
+
+    }
+    #navbar ul li a{
+        color:	#650C2F ;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 5px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.25rem;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 650px) {
+
+
+   /* #navbar {
+        grid-template-columns: 1fr;
+        grid-template-rows:0.3fr 0.1fr;
+        grid-template-areas:
+                " Logo"
+                 "Navbar";
+        padding: 0;
+    }
+
+    #navbar .Logo{
+
+        text-align: center;
+
+    }*/
+    #navbar ul li a{
+        color:	#650C2F ;
+        cursor: pointer;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 5px;
+        text-decoration: none;
+        display: block;
+        font-size: 1.25rem;
+
+    }
+/*    #navbar ul{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        grid-area: Navbar;
+        justify-content: center;
+        !* justify-content: space-between;*!
+        width: 100%;
+
+    }*/
+
+    #navbar ul li{
+        list-style: none;
+        position: relative;
 
     }
 }
@@ -269,7 +360,7 @@ main{
     width: 40px;
     background-color: lightgray;
     border-radius: 50%;
-    color:##7F061E;
+    color:#7F061E;
     font-size: 20px;
     top:50%;
     cursor: pointer;
