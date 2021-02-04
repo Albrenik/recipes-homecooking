@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/roasted-almonds.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/roasted-almonds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/broccoli-rice-noodles.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/broccoli-rice-noodles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chicken-noodle-casserole.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chicken-noodle-casserole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
       <recent name="$PROJECT_DIR$/docs/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.recipes.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="broccoli-rice-noodles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/recipes-homecooking/docs/broccoli-rice-noodles.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -57,8 +60,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.recipes.html" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.recipes.html" />
         <item itemvalue="JavaScript Debug.spaghetti-bolognese.html" />
         <item itemvalue="JavaScript Debug.broccoli-rice-noodles.html" />
         <item itemvalue="JavaScript Debug.waffles.html" />
@@ -77,7 +80,7 @@
       <workItem from="1609221588269" duration="35000" />
       <workItem from="1609436217564" duration="641000" />
       <workItem from="1612137810423" duration="5276000" />
-      <workItem from="1612376510128" duration="28610000" />
+      <workItem from="1612376510128" duration="30100000" />
     </task>
     <servers />
   </component>
