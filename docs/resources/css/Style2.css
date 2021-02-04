@@ -23,8 +23,8 @@
 	color: #E7A22F;
     font-size: 2.5rem;
     text-transform: uppercase;
-    padding-top: 2rem;
-    padding-bottom:2rem ;
+    padding-top: 1rem;
+    padding-bottom:1rem ;
 
 
 }
@@ -174,7 +174,34 @@ nav{
     padding-left: 1rem;
 }
 
+ul.breadcrumb {
+    padding: 10px 14px;
+    list-style: none;
+}
 
+ul.breadcrumb li {
+    display: inline;
+    font-size: 1.5rem;
+}
+
+ul.breadcrumb li+li:before {
+    padding: 2px;
+    color: #C1C1C1;
+    content: "/\00a0";
+}
+
+ul.breadcrumb li:last-child {
+    color: #C1C1C1;
+}
+
+ul.breadcrumb li a {
+    color:#E7A22F;
+    text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+    color: #D4CACA ;
+}
 /*!*-------Content-----------------------*!*/
 
 #content1{
