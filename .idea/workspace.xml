@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="42567fa0-f423-42ee-89c3-1f62ff58c37e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Top-Recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Top-Recipes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pizza-margherita.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pizza-margherita.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/recipes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resources/css/Style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resources/css/Style2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/top-5-recipes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/top-5-recipes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +79,7 @@
       <workItem from="1609221588269" duration="35000" />
       <workItem from="1609436217564" duration="641000" />
       <workItem from="1612137810423" duration="5276000" />
-      <workItem from="1612376510128" duration="24695000" />
+      <workItem from="1612376510128" duration="26210000" />
     </task>
     <servers />
   </component>
